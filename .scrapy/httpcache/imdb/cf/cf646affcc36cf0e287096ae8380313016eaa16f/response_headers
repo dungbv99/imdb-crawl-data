@@ -1,0 +1,10 @@
+Server: Server
+Date: Sun, 25 Oct 2020 09:02:14 GMT
+X-Amz-Rid: Y2JF8NPWANPN7GZ4WDPT
+Location: /title/tt0114709/
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+X-Cache: Miss from cloudfront
+Via: 1.1 55c8386ba54fbe8ac7d89b90344d4345.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SIN52-C3
+X-Amz-Cf-Id: m1T3uFTzBZTrqDHzU9SI7-e-Len0GnF8tWLc8fc1hv3NnhAtYqwtgA==

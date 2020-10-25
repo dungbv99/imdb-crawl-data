@@ -1,0 +1,18 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+Date: Sun, 25 Oct 2020 09:02:33 GMT
+X-Amz-Rid: GQ64ZCE64EJSEG6E72JG
+Set-Cookie: uu=BCYgWZF7wyearfP7T5A9xLCgTu5tOb1n5ZuBOPa3o_A_9RD1SQvmmdN2Wj48usn4jF4MOzaH5PD6%0D%0AIUUDwP6QVpMijjU9sGvh9qP3Ddle7f1eWvJOzpzjYE5ib118UpaUXM-goxf1XFROAzkbj6mk7xVv%0D%0Asw%0D%0A; Domain=.imdb.com; Expires=Fri, 12-Nov-2088 12:16:40 GMT; Path=/; Secure
+Set-Cookie: session-id=135-0408105-0717563; Domain=.imdb.com; Expires=Fri, 12-Nov-2088 12:16:40 GMT; Path=/; Secure
+Set-Cookie: session-id-time=2234336553; Domain=.imdb.com; Expires=Fri, 12-Nov-2088 12:16:40 GMT; Path=/; Secure
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self' imdb.com *.imdb.com *.media-imdb.com withoutabox.com *.withoutabox.com amazon.com *.amazon.com amazon.co.uk *.amazon.co.uk amazon.de *.amazon.de translate.google.com images.google.com www.google.com www.google.co.uk search.aol.com bing.com www.bing.com
+Ad-Unit: imdb.title_md.title.maindetails
+Entity-Id: tt0114709
+Content-Language: en
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent
+X-Cache: Miss from cloudfront
+Via: 1.1 55c8386ba54fbe8ac7d89b90344d4345.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SIN52-C3
+X-Amz-Cf-Id: nJ6XBcXJDABzYmYIbnULydS1yl2aUEuo3o7nU1rGz8Z-Oc3sN6fviA==
