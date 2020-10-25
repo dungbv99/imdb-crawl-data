@@ -7,6 +7,7 @@ import scrapy
 
 
 class ImdbItem(scrapy.Item):
+    id = scrapy.Field()
     storyLine = scrapy.Field()
     cast = scrapy.Field()
     averageRating = scrapy.Field()

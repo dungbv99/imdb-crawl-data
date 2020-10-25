@@ -51,6 +51,9 @@ class ImdbSpiders(scrapy.Spider):
     def parse(self, response):
         imdbLoader = ItemLoader(item=ImdbItem(), response=response)
 
+        id = response.url[29:len(response.url)-1]
+        imdbLoader.add_value('id', id)
+
         storyLine = response.xpath(self.storyLineXPath).get()
         imdbLoader.add_value('storyLine', storyLine)
 
