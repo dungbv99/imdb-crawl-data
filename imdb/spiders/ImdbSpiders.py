@@ -28,7 +28,7 @@ class ImdbSpiders(scrapy.Spider):
         'USER_AGENT': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36',
         'ROBOTSTXT_OBEY': False,
         'HTTPCACHE_ENABLED': True,
-        'CONCURRENT_REQUESTS': 4,
+        'CONCURRENT_REQUESTS': 16,
         'DOWNLOAD_DELAY': 4,
         'DEFAULT_REQUEST_HEADERS': {
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
